@@ -1,16 +1,12 @@
-## Hi there 👋
+# Welcome to TheKeops Github Page!
 
-<!--
-**TheKeops/TheKeops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am TheKeops, I owner Keops Studios.
+<br>
+This account contains open source applications made by Keops Studios. This account contains open source applications developed by Keops Studios. Established in Türkiye, our studio develops and offers projects to meet everyone's needs and make them accessible. We both learn and present.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# We Make
+- Games
+- Android Apps
+- Desktop Apps
+- Tools & Script
+- Mods & Plugins
