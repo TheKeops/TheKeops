@@ -10,3 +10,5 @@ This account contains open source applications made by Keops Studios. This accou
 - Desktop Apps
 - Tools & Script
 - Mods & Plugins
+
+<center><img src="img/keopsstudios_2.png"></center>
