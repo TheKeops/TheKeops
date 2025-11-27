@@ -9,6 +9,6 @@ Web Site : https://keopsstudios.pages.dev
 # We Make
 - Games
 - Desktop Apps
-- Tools & Script
+- Web App
 
 <center><img src="img/keopsstudios_2.png"></center>
