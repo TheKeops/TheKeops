@@ -15,7 +15,7 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 ## 🛠️ Tools We Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,TS, tsx,git,github,vscode,visualstudio,cloudflare,docker,unity,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,ts, tsx,nodejs, git,github,vscode,visualstudio,cloudflare,docker,unity,blender&perline=7" />
 </p>
 
 ---
