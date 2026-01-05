@@ -7,13 +7,13 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 ## 💻 What We Do?
 - 🎮 Games
 - 💻 Softwares
-- 🌐 Web Site
+- 🌐 Mobile App (Not now)
 ---
 
 ## 🛠️ Tools We Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,vscode,visualstudio,cloudflare,docker,unity,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,kotlin,androidstudio,vscode,visualstudio,cloudflare,docker,unity,blender&perline=7" />
 </p>
 
 ---
