@@ -6,7 +6,8 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 
 ## 💻 What We Do?
 - 🎮 Games
-- 💻 Softwares
+- 💻 Computer Softwares
+- 📱 Mobile Softwares
 ---
 
 ## 🛠️ Tools We Use
