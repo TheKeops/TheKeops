@@ -10,7 +10,7 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 - 📱 Mobile Softwares
 ---
 
-## 🛠️ Tools We Use
+## 🛠️ Technologies We Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,java,vscode,visualstudio,cloudflare,git,github,docker,unity,blender&perline=7" />
