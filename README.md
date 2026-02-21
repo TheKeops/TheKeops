@@ -12,7 +12,7 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 ## 🛠️ Technologies We Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,cloudflare,git,github,unity,godot,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,mysql,cloudflare,docker,postman,git,github,unity,godot,blender&perline=7" />
 </p>
 
 ---
