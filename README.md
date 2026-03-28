@@ -26,6 +26,7 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
   <a href="https://github.com/thekeops"><img src="https://img.shields.io/badge/Github-%23121212.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/keopsstudios"><img src="https://img.shields.io/badge/X%20(Twitter)-%23121212.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://keopsstudios.itch.io"><img src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?&style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=5669588672447769978"><img src="https://img.shields.io/badge/Google%20Play-FF2828.svg?&style=for-the-badge&logo=googleplay&logoColor=green" /></a>
   <a href="https://linktr.ee/thekeops"><img src="https://img.shields.io/badge/All%20Links-%23ffffff.svg?&style=for-the-badge&logo=Linktree&logoColor=green" /></a>
   <a href="https://keopsstudios.pages.dev"><img src="https://img.shields.io/badge/Web%20Site-%2300A6D9.svg?&style=for-the-badge&logo=none&logoColor=green" /></a>
 </p>
