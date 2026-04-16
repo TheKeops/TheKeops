@@ -8,13 +8,6 @@ I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various 
 - 🎮 Games
 - 💻 Computer Softwares
 - 📱  Mobile App
----
-
-## 🛠️ Technologies We Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dart,flutter,mysql,cloudflare,docker,git,github,unity,godot,blender&perline=7" />
-</p>
 
 ---
 
