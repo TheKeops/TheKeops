@@ -1,6 +1,6 @@
 # <3 Welcome!
 
-I'm TheKeops. I'm the founder and developer of Keops Studios. I develop various open source games and software. I'm new to this, so to support me, all you have to do is try my projects and leave a comment.
+I am the owner and developer of Keops Studios. You can show your support for us by trying out our projects, playing our games, or providing feedback on our content. Have a great day.
 
 ## ✏ What We Do?
 - 🎮 Computer and Mobile Games
