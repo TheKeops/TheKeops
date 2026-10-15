@@ -13,7 +13,8 @@ I am the owner and developer of Keops Studios. You can show your support for us 
 ## 🛠️ Our Other Teams
 - Keops AI [@keopsai](https://github.com/keopsai)
 - Kod Kadrajı [@kodkadraji](https://instagram.com/kodkadraji)
+- Keops Studios [@keopsstudios](https://github.com/Keops-Studios)
 
 <br>
 
-"AI, software, games, and content FOR EVERYONE"
+*"AI, software, games, and content **FOR EVERYONE**"*
