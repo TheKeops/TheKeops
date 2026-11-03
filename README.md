@@ -5,6 +5,7 @@ I am the owner and developer of Keops Studios. You can show your support for us 
 ## ✏ What We Do?
 - 🎮 Computer and Mobile Games
 - 💻 Computer Softwares
+- 💽 System Software
 - 🤖 AI systems and automations
 - 🎬 Media content
 
